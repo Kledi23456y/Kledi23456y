@@ -1,6 +1,5 @@
   <div align="center">
     <h1>Hi there, I'm Kledi 👋</h1>
-    <p>Software Engineer 👨‍💻</p>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
     <h3>Connect with me:</h3>
     <a href="https://instagram.com/_kledidervishi_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>
